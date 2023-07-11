@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @hossein-jorfi<br>👀 I’m interested in Web development<br>🌱 I’m currently learning Typescript<br>💞️ I’m looking to collaborate on Front End Developer(Next.js / React.js)<br>📫 How to reach me hosseinjorfi81@gmail.com
- number: 0901 530 4912
+ tel: 0901 530 4912
 
 
 ## 🌐 Socials:
