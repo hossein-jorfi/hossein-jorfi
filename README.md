@@ -11,4 +11,7 @@ https://hosseinjorfi.vercel.app/
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,materialui,bootstrap,redux,graphql,vite,vitest,jest,git,github)](https://skillicons.dev)
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png
+<div >
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" alt="React Query" title="React Query"/></code>
+</div>
