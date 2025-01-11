@@ -10,4 +10,4 @@ https://hosseinjorfi.vercel.app/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosseinjorfi) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,materialui,bootstrap,redux,graphql,vite,vitest,jest,git,github)](https://skillicons.dev)
